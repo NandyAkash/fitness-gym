@@ -1,0 +1,50 @@
+[
+    {
+      "id": "1",
+      "picture": "https://i.ibb.co/rbGCXmH/service1.png",
+      "name": "Beginner",
+      "duration": "10 days",
+      "description": "A self-described community of “underdogs, misfits, and mutants” ready and willing to help people with every step of their fitness journey, Nerd Fitness is a comprehensive resource that’s motivating and inspiring.\r\n",
+      "price": "$5"
+    },
+    {
+      "id": "2",
+      "picture": "https://i.ibb.co/kHy1V97/service2.png",
+      "name": "Step two in Beginner",
+      "duration": "15 days",
+      "description": "Reducing calorie intake by approximately 250 calories per day may lead to significant weight loss and improve vascular health in older adults with obesity.\r\n",
+      "price": "$7"
+    },
+    {
+      "id": "3",
+      "picture": "https://i.ibb.co/X8qxJqq/service3.jpg",
+      "name": "Last Beginner",
+      "duration": "20 days",
+      "description": "Reducing calorie intake by approximately 250 calories per day may lead to significant weight loss and improve vascular health in older adults with obesity.\r\n",
+      "price": "$8"
+    },
+    {
+      "id": "4",
+      "picture": "https://i.ibb.co/dm0bbLL/service4.jpg",
+      "name": "Intermediate",
+      "duration": "30 days",
+      "description": "Reducing calorie intake by approximately 250 calories per day may lead to significant weight loss and improve vascular health in older adults with obesity.\r\n",
+      "price": "$10"
+    },
+    {
+      "id": "5",
+      "picture": "https://i.ibb.co/Nn5LyZ5/service5.jpg",
+      "name": "Second Level",
+      "duration": "60 days",
+      "description": "Reducing calorie intake by approximately 250 calories per day may lead to significant weight loss and improve vascular health in older adults with obesity.\r\n",
+      "price": "$20"
+    },
+    {
+      "id": "6",
+      "picture": "https://i.ibb.co/T0WhFcN/service6.jpg",
+      "name": "Advanced",
+      "duration": "90 days",
+      "description": "There are many genetic markers that have been suggested as having associations with fitness and elite-level athletic characteristics.\r\n",
+      "price": "$35"
+    }
+  ]
