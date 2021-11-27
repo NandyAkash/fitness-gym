@@ -10,7 +10,7 @@ An Online Gym Site where anyone can bbok there peferable package from Home.
 
 ## Our gym photos is displayed on the top view.
 
-## Eeveryone will have their own account or ID.
+## Everyone will have their own account or ID.
 
 ## Purchase package can be done here.
 
